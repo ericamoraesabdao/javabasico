@@ -6,7 +6,7 @@ public class SomaDeNumeros {
     //        ● Exemplo de entrada: 5
     //        ● Exemplo de saída: 15 (1 + 2 + 3 + 4 + 5)
 
-     {
+    public static void main(String[] args) {
         int n;
         int soma = 0;
 
