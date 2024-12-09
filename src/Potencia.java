@@ -23,6 +23,7 @@ public class Potencia {
         for (int i = 1; i <= expoente ; i++) {
            resultado = resultado * base;
         }
+
         System.out.println(resultado);
     }
 }
